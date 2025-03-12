@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Friscxion
-- 👀 I’m interested in JS Frameworks, most likely React
-- 🌱 I’m currently learning at CESI Nancy
+- 👀 I’m interested in JS Frameworks, most likely NextJS
 - 📫 How to reach me : erwann.champion@outlook.fr
 
 <!---
